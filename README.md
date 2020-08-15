@@ -1,1 +1,1 @@
-# Python Notes Exercises
+# Python Notes and Exercises
