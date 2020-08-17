@@ -2,5 +2,6 @@
     "cSpell.ignoreWords": [
         "leyla",
         "penup"
-    ]
+    ],
+    "python.pythonPath": "C:\\Python38\\python.exe"
 }
